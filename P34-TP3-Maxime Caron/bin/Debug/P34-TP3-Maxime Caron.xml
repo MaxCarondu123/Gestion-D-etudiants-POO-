@@ -1,0 +1,235 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+P34-TP3-Maxime Caron
+</name>
+</assembly>
+<members>
+<member name="T:P34_TP3_Maxime_Caron.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:P34_TP3_Maxime_Caron.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:P34_TP3_Maxime_Caron.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.Etudiant.#ctor">
+ <summary>
+ Cette procedure permet calculer nombre etudiant et les lister dans l'arrayList a partir du fichier texte
+ </summary>
+</member>
+<member name="P:P34_TP3_Maxime_Caron.Etudiant.Nb_Etu">
+ <summary>
+ Cette proprieter permet de seulement lire nombre d'etudiant
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:P34_TP3_Maxime_Caron.Etudiant.Da">
+ <summary>
+ Cette proprieter permet de seulement lire le DA de l'etudiant
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:P34_TP3_Maxime_Caron.Etudiant.Nom">
+ <summary>
+ Cette proprieter permet de seulement lire le Nom de l'etudiant
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:P34_TP3_Maxime_Caron.Etudiant.Prenom">
+ <summary>
+ Cette proprieter permet de seulement lire le Prenom de l'etudiant
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:P34_TP3_Maxime_Caron.Etudiant.Sexe">
+ <summary>
+ Cette proprieter permet de seulement lire le Prenom de l'etudiant
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:P34_TP3_Maxime_Caron.Etudiant.Ville">
+ <summary>
+ Cette proprieter permet de seulement lire le Ville de l'etudiant
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:P34_TP3_Maxime_Caron.Etudiant.NbCoursReussi">
+ <summary>
+ Cette proprieter permet de seulement lire le Nombre de Cours Reussi de l'etudiant
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:P34_TP3_Maxime_Caron.Etudiant.Moyenne">
+ <summary>
+ Cette proprieter permet de seulement lire le Moyenne de l'etudiant
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:P34_TP3_Maxime_Caron.Etudiant.Statut">
+ <summary>
+ Cette proprieter permet de seulement lire le Statut de l'etudiant
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:P34_TP3_Maxime_Caron.Etudiant.Index">
+ <summary>
+ Cette proprieter permet de seulement lire et d'ecrice l'Index pour selectionner un etudiant
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:P34_TP3_Maxime_Caron.Etudiant.ListEtudiant">
+ <summary>
+ Cette proprieter permet de seulement lire la list des etudiants
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:P34_TP3_Maxime_Caron.Etudiant.NbConnexion">
+ <summary>
+ Cette proprieter permet ???????
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.Etudiant.AjouterEtudiant(System.String,System.String,System.Char,System.String,System.Int32,System.Single,System.Char)">
+ <summary>
+ Cette procedure permet de d'ajouter un etudiant a la List des etudiants
+ </summary>
+ <param name="nom"></param>
+ <param name="prenom"></param>
+ <param name="sexe"></param>
+ <param name="ville"></param>
+ <param name="nbcr"></param>
+ <param name="moyenne"></param>
+ <param name="statut"></param>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.Etudiant.ModifierEtudiant(System.Int32,System.String,System.String,System.Char,System.String,System.Int32,System.Single,System.Char)">
+ <summary>
+ Cette procedure permet de modifier un etudiant a la List des etudiants
+ </summary>
+ <param name="da"></param>
+ <param name="nom"></param>
+ <param name="prenom"></param>
+ <param name="sexe"></param>
+ <param name="ville"></param>
+ <param name="nbcr"></param>
+ <param name="moyenne"></param>
+ <param name="statut"></param>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.Etudiant.SupprimerEtudiant(System.Int32)">
+ <summary>
+ Cette procedure permet de supprimer un etudiant a la List des etudiants
+ </summary>
+ <param name="da"></param>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.Etudiant.ListerEtudiant">
+ <summary>
+ Cette procedure permet de lister les etudiants avec son DA,son Prenom et son Nom
+ </summary>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.Etudiant.CalculerMoyenne">
+ <summary>
+ Cette procedure permet de calculer la moyenne de tous etudiants
+ </summary>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.frmPrincipal.frmPrincipal_Load(System.Object,System.EventArgs)">
+ <summary>
+ Cette procedure permet de initisaliser le formmulaire au l'ouverture du programme
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.frmPrincipal.Remplir_ListView">
+ <summary>
+ Cette procedure permet de remplir le ListView des etudiants
+ </summary>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.frmPrincipal.lstEleve_SelectedIndexChanged(System.Object,System.EventArgs)">
+ <summary>
+ Permet de savoir quelle ligne est selectionner dans le ListView
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.frmPrincipal.Remplir_FormEtudiant(System.Int32)">
+ <summary>
+ Cette procedure permet de remplir le formualire d'un etudiant qui a ete selectionner
+ </summary>
+ <param name="no"></param>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.frmPrincipal.btnAjouter_Click(System.Object,System.EventArgs)">
+ <summary>
+ Cette procedure permet d'ajouter un etudiant a partir de son bouton dans le formulaire
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.frmPrincipal.btnModifier_Click(System.Object,System.EventArgs)">
+ <summary>
+ Cette procedure permet de modifier un etudiant a partir de son bouton dans le formulaire
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.frmPrincipal.btnOk_Click(System.Object,System.EventArgs)">
+ <summary>
+ Cette procedure permet de valider son ajout ou modification d'un etudiant a partir de son bouton dans le formulaire
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.frmPrincipal.btnSupprimer_Click(System.Object,System.EventArgs)">
+ <summary>
+ Cette procedure permet de supprimer un etudiant a partir de son bouton dans le formulaire
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.frmPrincipal.Barrer(System.Windows.Forms.Control[])">
+ <summary>
+ Cette procedure permet de barrer les controle dans le formaulaire
+ </summary>
+ <param name="ctrl"></param>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.frmPrincipal.Debarrer(System.Windows.Forms.Control[])">
+ <summary>
+ Cette procedure permet de debarrer les controle dans le formaulaire
+ </summary>
+ <param name="ctrl"></param>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.frmPrincipal.Choix_RadioButton(System.Char,System.Char)">
+ <summary>
+ Cette procedure permet initisaliser les choix sur les radio boutton 
+ </summary>
+ <param name="sexe"></param>
+ <param name="statut"></param>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.frmPrincipal.btnCalMoyenne_Click(System.Object,System.EventArgs)">
+ <summary>
+ Cette procedure permet de calculer la moyenne un etudiant a partir de son bouton dans le formulaire
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.frmPrincipal.btnListerEtudiant_Click(System.Object,System.EventArgs)">
+ <summary>
+ Cette procedure permet de lister les etudiants a partir de son bouton dans le formulaire
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:P34_TP3_Maxime_Caron.frmPrincipal.Vider_Formulaire">
+ <summary>
+ Cette procedure permet de vider les champs dans le formualire d'un etudiant
+ </summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,52 @@
+C:\Users\EcoleMax\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.AssemblyReference.cache
+C:\Users\EcoleMax\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.SuggestedBindingRedirects.cache
+C:\Users\EcoleMax\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34_TP3_Maxime_Caron.frmPrincipal.resources
+C:\Users\EcoleMax\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34_TP3_Maxime_Caron.Resources.resources
+C:\Users\EcoleMax\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.GenerateResource.cache
+C:\Users\EcoleMax\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.CoreCompileInputs.cache
+C:\Users\EcoleMax\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.exe.config
+C:\Users\EcoleMax\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.exe
+C:\Users\EcoleMax\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.pdb
+C:\Users\EcoleMax\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.xml
+C:\Users\EcoleMax\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.exe
+C:\Users\EcoleMax\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.xml
+C:\Users\EcoleMax\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.pdb
+C:\Users\maxca\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.exe.config
+C:\Users\maxca\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.exe
+C:\Users\maxca\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.pdb
+C:\Users\maxca\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.xml
+C:\Users\maxca\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.AssemblyReference.cache
+C:\Users\maxca\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.SuggestedBindingRedirects.cache
+C:\Users\maxca\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34_TP3_Maxime_Caron.frmPrincipal.resources
+C:\Users\maxca\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34_TP3_Maxime_Caron.Resources.resources
+C:\Users\maxca\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.GenerateResource.cache
+C:\Users\maxca\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.CoreCompileInputs.cache
+C:\Users\maxca\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.exe
+C:\Users\maxca\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.xml
+C:\Users\maxca\Desktop\Juin\P34\Visual\P34-TP3-Maxime Caron\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.pdb
+C:\Users\EcoleMax\Downloads\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.exe.config
+C:\Users\EcoleMax\Downloads\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.exe
+C:\Users\EcoleMax\Downloads\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.pdb
+C:\Users\EcoleMax\Downloads\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.xml
+C:\Users\EcoleMax\Downloads\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.AssemblyReference.cache
+C:\Users\EcoleMax\Downloads\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.SuggestedBindingRedirects.cache
+C:\Users\EcoleMax\Downloads\P34-TP3-Maxime Caron\obj\Debug\P34_TP3_Maxime_Caron.frmPrincipal.resources
+C:\Users\EcoleMax\Downloads\P34-TP3-Maxime Caron\obj\Debug\P34_TP3_Maxime_Caron.Resources.resources
+C:\Users\EcoleMax\Downloads\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.GenerateResource.cache
+C:\Users\EcoleMax\Downloads\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.CoreCompileInputs.cache
+C:\Users\EcoleMax\Downloads\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.exe
+C:\Users\EcoleMax\Downloads\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.xml
+C:\Users\EcoleMax\Downloads\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.pdb
+C:\Users\maxca\Desktop\P34-TP3-Vrai\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.exe.config
+C:\Users\maxca\Desktop\P34-TP3-Vrai\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.exe
+C:\Users\maxca\Desktop\P34-TP3-Vrai\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.pdb
+C:\Users\maxca\Desktop\P34-TP3-Vrai\P34-TP3-Maxime Caron\bin\Debug\P34-TP3-Maxime Caron.xml
+C:\Users\maxca\Desktop\P34-TP3-Vrai\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.AssemblyReference.cache
+C:\Users\maxca\Desktop\P34-TP3-Vrai\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.SuggestedBindingRedirects.cache
+C:\Users\maxca\Desktop\P34-TP3-Vrai\P34-TP3-Maxime Caron\obj\Debug\P34_TP3_Maxime_Caron.frmPrincipal.resources
+C:\Users\maxca\Desktop\P34-TP3-Vrai\P34-TP3-Maxime Caron\obj\Debug\P34_TP3_Maxime_Caron.Resources.resources
+C:\Users\maxca\Desktop\P34-TP3-Vrai\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.GenerateResource.cache
+C:\Users\maxca\Desktop\P34-TP3-Vrai\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.vbproj.CoreCompileInputs.cache
+C:\Users\maxca\Desktop\P34-TP3-Vrai\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.exe
+C:\Users\maxca\Desktop\P34-TP3-Vrai\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.xml
+C:\Users\maxca\Desktop\P34-TP3-Vrai\P34-TP3-Maxime Caron\obj\Debug\P34-TP3-Maxime Caron.pdb
